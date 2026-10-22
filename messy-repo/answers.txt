@@ -1,4 +1,4 @@
 flag location: ./docs/archive/fieldnotes.txt line 3
 lines in top level python: 17
-lines containg TODO anywhere in the tree: 7
+lines containg specified text anywhere in the tree: 7
 Python files remaining at the top level: 3
